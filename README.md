@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhramani21&label=Profile%20views&color=0e75b6&style=flat" alt="shubhramani21" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **Machine Learning Algorithms and Discrete Mathematics**
 
 - 🎯 My Goal **To learn all basic understanding of Data Science**
 
