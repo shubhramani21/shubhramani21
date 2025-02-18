@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubh ramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubh ramani" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/shubh ramani](https://www.linkedin.com/in/shubh-ramani-930b36289/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubh ramani" height="30" width="40" /></a>
 <a href="https://instagram.com/_shubh2_1_0_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shubh2_1_0_8" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/shubhramani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubhramani" height="30" width="40" /></a> -->
 </p>
